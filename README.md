@@ -13,7 +13,9 @@ Feel free to reach out, check out my repos, or contribute. I'd love to connect a
 <a href="mailto:andrescalvo.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-
+<a href="https://github.com/AndresACV" target="_blank">
+  <img src="https://img.shields.io/badge/Main%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Main GitHub Profile" />
+</a>
 </div>
 
 ---
@@ -52,6 +54,12 @@ Feel free to reach out, check out my repos, or contribute. I'd love to connect a
   <img width="5" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="35" alt="github actions" />
   <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" alt="fastapi" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" height="35" alt="nextjs" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" height="35" alt="vercel" />
+  <img width="5" />
   <img src="https://img.shields.io/badge/draw.io-F08705?style=flat&logo=diagrams.net&logoColor=white" height="35" alt="draw.io" />
 </div>
 
@@ -59,35 +67,35 @@ Feel free to reach out, check out my repos, or contribute. I'd love to connect a
 
 **Databricks Data Engineering and Machine Learning**
 <div align="left">
-  <img src="images/DB_DE_P.png" height="85" alt="Databricks Data Engineer Professional" />
-  <img src="images/DB_DE_A.png" height="85" alt="Databricks Data Engineer Associate" />
-  <img src="images/DB_ML_A.png" height="85" alt="Databricks Machine Learning Associate" />
+  <img src="images/DB_DE_P.png" height="120" alt="Databricks Data Engineer Professional" />
+  <img src="images/DB_DE_A.png" height="120" alt="Databricks Data Engineer Associate" />
+  <img src="images/DB_ML_A.png" height="120" alt="Databricks Machine Learning Associate" />
 </div>
 
 **Microsoft Azure & Power BI**
 <div align="left">
-  <img src="images/A_F.png" height="85" alt="Azure Fundamentals" />
-  <img src="images/D_F.png" height="85" alt="Azure Data Fundamentals" />
-  <img src="images/AI_F.png" height="85" alt="Azure AI Fundamentals" />
-  <img src="images/PBI_DA.png" height="85" alt="Power BI Data Analyst" />
+  <img src="images/A_F.png" height="120" alt="Azure Fundamentals" />
+  <img src="images/D_F.png" height="120" alt="Azure Data Fundamentals" />
+  <img src="images/AI_F.png" height="120" alt="Azure AI Fundamentals" />
+  <img src="images/PBI_DA.png" height="120" alt="Power BI Data Analyst" />
 </div>
 
 **Github**
 <div align="left">
-  <img src="images/G_F.png" height="85" alt="GitHub Foundations" />
-  <img src="images/G_A.png" height="85" alt="GitHub Actions" />
+  <img src="images/G_F.png" height="120" alt="GitHub Foundations" />
+  <img src="images/G_A.png" height="120" alt="GitHub Actions" />
 </div>
 
 **Agile**
 <div align="left">
-  <img src="images/PSM2.png" height="85" alt="Professional Scrum Master" />
+  <img src="images/PSM2.png" height="120" alt="Professional Scrum Master" />
 </div>
 
 ### 🚀 Interested in Learning
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="35" alt="terraform logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="70" alt="terraform logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" alt="kubernetes logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="70" alt="kubernetes logo" />
 </div>
 
 <picture>
