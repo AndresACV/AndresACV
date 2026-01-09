@@ -18,7 +18,7 @@ Feel free to reach out, check out my repos, or contribute. I'd love to connect a
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack, Frameworks & Libraries
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python" />
   <img width="5" />
