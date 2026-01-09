@@ -1,8 +1,6 @@
-<div align="left">
-
-<img src="images/Profile_Picture.jpg" align="right" width="140" style="border-radius: 50%; margin-left: 20px;" alt="Andres Calvo Profile"/>
-
-# Hi there! 👋 I'm Andres C.
+<div align="center">
+  
+# Hi there!!! 👋 I'm Andres C.
 
 I'm a **Data & AI Engineer** who loves building data and analytics projects.
 Feel free to reach out, check out my repos, or contribute. I'd love to connect and collaborate!
