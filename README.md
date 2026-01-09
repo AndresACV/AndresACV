@@ -80,7 +80,7 @@ Feel free to reach out, check out my repos, or contribute. I'd love to connect a
 
 **Agile**
 <div align="left">
-  <img src="images/PSM1.png" height="85" alt="Professional Scrum Master" />
+  <img src="images/PSM2.png" height="85" alt="Professional Scrum Master" />
 </div>
 
 ### 🚀 Interested in Learning
