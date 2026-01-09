@@ -63,14 +63,14 @@ Feel free to reach out, check out my repos, or contribute. I'd love to connect a
 
 ### 🏆 Main Certifications
 
-**Databricks Data Engineering and Machine Learning**
+**🧱 Databricks Data Engineering and Machine Learning**
 <div align="left">
   <img src="images/DB_DE_P.png" height="120" alt="Databricks Data Engineer Professional" />
   <img src="images/DB_DE_A.png" height="120" alt="Databricks Data Engineer Associate" />
   <img src="images/DB_ML_A.png" height="120" alt="Databricks Machine Learning Associate" />
 </div>
 
-**Microsoft Azure & Power BI**
+**☁️ Microsoft Azure & Power BI**
 <div align="left">
   <img src="images/A_F.png" height="120" alt="Azure Fundamentals" />
   <img src="images/D_F.png" height="120" alt="Azure Data Fundamentals" />
@@ -78,18 +78,14 @@ Feel free to reach out, check out my repos, or contribute. I'd love to connect a
   <img src="images/PBI_DA.png" height="120" alt="Power BI Data Analyst" />
 </div>
 
-**Github**
+**🤸‍♀️ Devops & Agile**
 <div align="left">
   <img src="images/G_F.png" height="120" alt="GitHub Foundations" />
   <img src="images/G_A.png" height="120" alt="GitHub Actions" />
-</div>
-
-**Agile**
-<div align="left">
   <img src="images/PSM2.png" height="120" alt="Professional Scrum Master" />
 </div>
 
-### 🚀 Interested in Learning
+### 🤔 Interested in Learning
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="70" alt="terraform logo" />
   <img width="8" />
