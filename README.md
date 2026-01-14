@@ -59,6 +59,11 @@ Feel free to reach out, check out my repos, or contribute. I'd love to connect a
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" height="35" alt="vercel" />
   <img width="5" />
   <img src="https://img.shields.io/badge/draw.io-F08705?style=flat&logo=diagrams.net&logoColor=white" height="35" alt="draw.io" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white" height="35" alt="langchain" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/LangGraph-0B5FFF?style=flat&logo=graphql&logoColor=white" height="35" alt="langgraph" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white" height="35" alt="pydantic" />
 </div>
 
 ### 🏆 Main Certifications
