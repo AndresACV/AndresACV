@@ -5,7 +5,7 @@
 I'm a **Data & AI Engineer** who loves building data and analytics projects.
 Feel free to reach out, check out my repos, or contribute. I'd love to connect and collaborate!
 
-<a href="[https://www.linkedin.com/in/andres-calvo](https://www.linkedin.com/in/andres-calvo-vargas/)" target="_blank">
+<a href="https://www.linkedin.com/in/andres-calvo-vargas/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:andrescalvo28073@gmail.com">
