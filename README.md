@@ -81,17 +81,17 @@ Feel free to reach out, check out my repos, or contribute. I'd love to connect a
 
 **☁️ Microsoft Azure & Power BI**
 <div align="left">
-  <img src="images/A_F.png" height="120" alt="Azure Fundamentals" />
-  <img src="images/D_F.png" height="120" alt="Azure Data Fundamentals" />
-  <img src="images/AI_F.png" height="120" alt="Azure AI Fundamentals" />
   <img src="images/PBI_DA.png" height="120" alt="Power BI Data Analyst" />
+  <img src="images/AI_F.png" height="120" alt="Azure AI Fundamentals" />
+  <img src="images/D_F.png" height="120" alt="Azure Data Fundamentals" />
+  <img src="images/A_F.png" height="120" alt="Azure Fundamentals" />
 </div>
 
 **🤸‍♀️ Devops & Agile**
 <div align="left">
-  <img src="images/G_F.png" height="120" alt="GitHub Foundations" />
-  <img src="images/G_A.png" height="120" alt="GitHub Actions" />
   <img src="images/PSM2.png" height="120" alt="Professional Scrum Master" />
+  <img src="images/G_A.png" height="120" alt="GitHub Actions" />
+  <img src="images/G_F.png" height="120" alt="GitHub Foundations" />
 </div>
 
 ### 🤔 Interested in Learning
