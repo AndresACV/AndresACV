@@ -75,7 +75,7 @@ Feel free to reach out, check out my repos, or contribute. I'd love to connect a
   <img src="images/DB_DE_A.png" height="120" alt="Databricks Data Engineer Associate" />
   <img src="images/DB_ML_A.png" height="120" alt="Databricks Machine Learning Associate" />
   <img src="images/DB_DA.png" height="120" alt="Databricks Data Analyst Associate" />
-  <img src="images/DB_GENAI.png" height="120" alt="Databricks Generative AI Engineer Associate" />
+  <img src="images/DB_GAI.png" height="120" alt="Databricks Generative AI Engineer Associate" />
   <img src="images/DB_SPK.png" height="120" alt="Databricks Associate Developer for Apache Spark" />
 </div>
 
