@@ -81,6 +81,7 @@ Feel free to reach out, check out my repos, or contribute. I'd love to connect a
 
 **☁️ Microsoft Azure & Power BI**
 <div align="left">
+  <img src="images/DE_AS.png" height="120" alt="Azure Databricks Data Engineer" />
   <img src="images/PBI_DA.png" height="120" alt="Power BI Data Analyst" />
   <img src="images/AI_F.png" height="120" alt="Azure AI Fundamentals" />
   <img src="images/D_F.png" height="120" alt="Azure Data Fundamentals" />
