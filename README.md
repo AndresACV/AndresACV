@@ -68,8 +68,9 @@ Feel free to reach out, check out my repos, or contribute. I'd love to connect a
 
 ### 🏆 Main Certifications
 
-**🧱 Databricks Data Engineering and Machine Learning**
+**🧱 Databricks Data Engineering, Machine Learning and AI**
 <div align="left">
+  <img src="images/associate-badge-context-engineer.png" height="120" alt="Databricks Context Engineer Associate" />
   <img src="images/DB_DE_P.png" height="120" alt="Databricks Data Engineer Professional" />
   <img src="images/DB_ML_P.png" height="120" alt="Databricks Machine Learning Professional" />
   <img src="images/DB_DE_A.png" height="120" alt="Databricks Data Engineer Associate" />
